@@ -1,0 +1,67 @@
+date,type,category,amount,description
+2025-09-08,income,membership_fee,1450,Fall membership fees (29 members)
+2025-09-10,income,school_grant,1000,Student union operating grant
+2025-09-12,expense,supplies,180,Banners and name tags for recruitment
+2025-09-15,expense,marketing,110,Recruitment poster printing
+2025-09-20,expense,event,480,Welcome social venue and snacks
+2025-09-22,expense,food,160,First general meeting refreshments
+2025-09-28,expense,printing,45,Membership forms printing
+2025-10-03,expense,event,520,Guest speaker honorarium
+2025-10-05,expense,food,190,Speaker event catering
+2025-10-12,income,event_revenue,420,Workshop ticket sales
+2025-10-15,expense,supplies,95,Workshop materials
+2025-10-18,expense,marketing,130,Instagram ad campaign
+2025-10-22,expense,transport,80,Volunteer transit reimbursement
+2025-10-28,income,sponsorship,600,Local cafe sponsorship
+2025-10-30,expense,food,170,Monthly meeting refreshments
+2025-11-04,expense,event,640,Networking night venue
+2025-11-06,expense,food,230,Networking night catering
+2025-11-10,expense,equipment,260,Portable projector purchase
+2025-11-14,income,fundraising,380,Bake sale proceeds
+2025-11-18,expense,marketing,90,Event flyers
+2025-11-21,income,event_revenue,350,Workshop ticket sales
+2025-11-25,expense,supplies,70,Stationery restock
+2025-11-28,expense,food,150,Monthly meeting refreshments
+2025-12-02,income,sponsorship,500,Tech company sponsorship
+2025-12-05,expense,event,980,Year-end gala venue deposit
+2025-12-08,expense,food,420,Year-end gala catering
+2025-12-10,expense,awards,210,Member appreciation awards
+2025-12-12,income,event_revenue,720,Gala ticket sales
+2025-12-15,expense,marketing,140,Gala promo materials
+2025-12-18,expense,printing,60,Certificates printing
+2026-01-10,income,membership_fee,1100,Winter membership fees (22 members)
+2026-01-12,income,school_grant,800,Winter term grant
+2026-01-15,expense,supplies,120,Whiteboard markers and printing
+2026-01-18,expense,marketing,85,New term recruitment posts
+2026-01-22,expense,event,450,Kickoff event venue and snacks
+2026-01-25,expense,food,175,First winter meeting refreshments
+2026-01-30,expense,software,96,Design tool subscription (annual)
+2026-02-03,expense,event,560,Guest panel honorarium
+2026-02-06,expense,food,200,Panel event catering
+2026-02-12,income,event_revenue,480,Workshop ticket sales
+2026-02-15,expense,supplies,85,Workshop materials
+2026-02-18,expense,transport,60,Speaker travel reimbursement
+2026-02-22,income,sponsorship,450,Bank sponsorship
+2026-02-26,expense,food,160,Monthly meeting refreshments
+2026-02-28,expense,marketing,115,Merchandise design
+2026-03-04,expense,event,600,Industry mixer venue
+2026-03-07,expense,food,240,Mixer catering
+2026-03-11,income,fundraising,420,Merch sale proceeds
+2026-03-14,expense,equipment,150,Microphone and stand
+2026-03-18,expense,marketing,100,Event promotion
+2026-03-21,income,event_revenue,390,Workshop ticket sales
+2026-03-25,expense,supplies,75,Name tags and stationery
+2026-03-29,expense,food,155,Monthly meeting refreshments
+2026-04-02,income,sponsorship,550,Returning sponsor renewal
+2026-04-06,expense,event,1050,End-of-year banquet venue
+2026-04-09,expense,food,480,Banquet catering
+2026-04-12,expense,awards,240,Year-end member awards
+2026-04-15,income,event_revenue,780,Banquet ticket sales
+2026-04-18,expense,marketing,130,Banquet promo and photos
+2026-04-22,expense,printing,70,Awards certificates
+2026-04-28,expense,supplies,55,Misc printing
+2026-05-05,expense,food,90,Wrap-up meeting refreshments
+2026-05-12,income,fundraising,180,Leftover merch sale
+2026-05-20,expense,supplies,40,Storage boxes for equipment
+2026-06-08,expense,printing,35,Annual report printing
+2026-06-15,expense,food,80,Executive transition lunch
